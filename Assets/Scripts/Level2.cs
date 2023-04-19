@@ -13,7 +13,7 @@ public class Level2 : MonoBehaviour {
 
     void Awake()
     {
-        StartCoroutine(SwanSpeed());
+        StartCoroutine(VirusSpeed());
     }
 
     void Start () {
@@ -45,7 +45,7 @@ public class Level2 : MonoBehaviour {
     }
 
 
-    IEnumerator SwanSpeed()
+    IEnumerator VirusSpeed()
     {
         while (true)
         {

@@ -13,7 +13,7 @@ public class Level3 : MonoBehaviour {
 
     void Awake()
     {
-        StartCoroutine(SwanSpeed());
+        StartCoroutine(Speed());
     }
 
     void Start () {
@@ -45,7 +45,7 @@ public class Level3 : MonoBehaviour {
     }
 
 
-    IEnumerator SwanSpeed()
+    IEnumerator Speed()
     {
         while (true)
         {
