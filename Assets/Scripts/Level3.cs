@@ -21,8 +21,9 @@ public class Level3 : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
-		Vector3 desired = (target.transform.position - transform.position).normalized;
+	void Update () {
+        target = GameObject.Find("Walking");
+        Vector3 desired = (target.transform.position - transform.position).normalized;
 		body.AddForce(desired * speed - body.velocity);
 
 		float angle = (Mathf.Atan2(desired.y, desired.x) * Mathf.Rad2Deg) - 90;
@@ -35,15 +36,6 @@ public class Level3 : MonoBehaviour {
 	public void IncreaseSpeed() {
 		speed *= 1.2f;
 	}
-
-	void OnCollisionEnter(Collision coll) {
-        if (coll.gameObject == target)
-        {
-            GetComponent<AudioSource>().Play();
-            SceneManager.LoadScene("Death_scene");
-        }
-    }
-
 
     IEnumerator Speed()
     {
