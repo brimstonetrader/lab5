@@ -135,12 +135,8 @@ GameObject:
   - component: {fileID: 6544231}
   - component: {fileID: 6544230}
   - component: {fileID: 6544229}
-  - component: {fileID: 6544234}
-<<<<<<< Updated upstream
-  - component: {fileID: 6544235}
-=======
   - component: {fileID: 6544233}
->>>>>>> Stashed changes
+  - component: {fileID: 6544234}
   m_Layer: 0
   m_Name: Cylinder (3)
   m_TagString: Untagged
@@ -220,18 +216,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6544228}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -18.3, y: 3.9, z: 11.1}
+  m_LocalPosition: {x: -20.3, y: 3.9, z: 11.1}
   m_LocalScale: {x: 5.66, y: 10, z: 5.89}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
---- !u!54 &6544234
-=======
 --- !u!54 &6544233
->>>>>>> Stashed changes
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -242,21 +234,12 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-<<<<<<< Updated upstream
   m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
---- !u!114 &6544235
-=======
-  m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 124
   m_CollisionDetection: 0
 --- !u!114 &6544234
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -268,14 +251,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
-  target: {fileID: 1768869493}
-  speed: 2
-  rotationSpeed: 2
-=======
   speed: 40
   distance: 100
->>>>>>> Stashed changes
 --- !u!1 &8980966
 GameObject:
   m_ObjectHideFlags: 0
@@ -882,7 +859,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   turnSpeed: 4
-  moveSpeed: 2
+  moveSpeed: 5
   minTurnAngle: -90
   maxTurnAngle: 90
 --- !u!136 &503220716
@@ -1246,13 +1223,8 @@ GameObject:
   - component: {fileID: 662740035}
   - component: {fileID: 662740034}
   - component: {fileID: 662740033}
-<<<<<<< Updated upstream
   - component: {fileID: 662740037}
   - component: {fileID: 662740038}
-=======
-  - component: {fileID: 662740038}
-  - component: {fileID: 662740037}
->>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Cylinder (4)
   m_TagString: Untagged
@@ -1332,7 +1304,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 662740032}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -18, y: 3.9, z: 49.6}
+  m_LocalPosition: {x: -19.1, y: 3.9, z: 49.6}
   m_LocalScale: {x: 5.66, y: 10, z: 5.89}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1350,17 +1322,10 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-<<<<<<< Updated upstream
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
-=======
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
   m_Constraints: 124
->>>>>>> Stashed changes
   m_CollisionDetection: 0
 --- !u!114 &662740038
 MonoBehaviour:
@@ -1374,14 +1339,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
-  target: {fileID: 1101719316}
-  speed: 2
-  rotationSpeed: 2
-=======
-  speed: 75
+  speed: 65
   distance: 100
->>>>>>> Stashed changes
 --- !u!1 &682834997
 GameObject:
   m_ObjectHideFlags: 0
@@ -1803,11 +1762,7 @@ GameObject:
   - component: {fileID: 730157211}
   - component: {fileID: 730157210}
   - component: {fileID: 730157215}
-<<<<<<< Updated upstream
   - component: {fileID: 730157216}
-=======
-  - component: {fileID: 730157214}
->>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Cylinder (2)
   m_TagString: Untagged
@@ -1887,18 +1842,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 730157209}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -18.5, y: 3.9, z: 31.2}
+  m_LocalPosition: {x: -19.3, y: 3.9, z: 31.2}
   m_LocalScale: {x: 5.66, y: 10, z: 5.89}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
 --- !u!54 &730157215
-=======
---- !u!54 &730157214
->>>>>>> Stashed changes
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1909,21 +1860,12 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-<<<<<<< Updated upstream
   m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
---- !u!114 &730157216
-=======
-  m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 124
   m_CollisionDetection: 0
---- !u!114 &730157215
->>>>>>> Stashed changes
+--- !u!114 &730157216
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1935,14 +1877,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
-  target: {fileID: 1364107941}
-  speed: 2
-  rotationSpeed: 2
-=======
-  speed: 65
+  speed: 75
   distance: 100
->>>>>>> Stashed changes
 --- !u!1 &808538288
 GameObject:
   m_ObjectHideFlags: 0
@@ -2036,7 +1972,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 808538288}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.4, y: 3.9, z: -7}
+  m_LocalPosition: {x: -20.1, y: 8, z: -6.3}
   m_LocalScale: {x: 5.66, y: 10, z: 5.89}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2057,7 +1993,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 124
   m_CollisionDetection: 0
 --- !u!114 &808538295
 MonoBehaviour:
@@ -2071,14 +2007,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
-  target: {fileID: 1276070487}
-  speed: 2
-  rotationSpeed: 2
-=======
   speed: 50
   distance: 100
->>>>>>> Stashed changes
 --- !u!1 &870128240 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 7f092380394ea4a9f95db5e3d902ed4d, type: 3}
@@ -2451,13 +2381,8 @@ GameObject:
   - component: {fileID: 1101719319}
   - component: {fileID: 1101719318}
   - component: {fileID: 1101719317}
-<<<<<<< Updated upstream
-  - component: {fileID: 1101719321}
   - component: {fileID: 1101719322}
-=======
-  - component: {fileID: 1101719322}
-  - component: {fileID: 1101719321}
->>>>>>> Stashed changes
+  - component: {fileID: 1101719323}
   m_Layer: 0
   m_Name: Cylinder (9)
   m_TagString: Untagged
@@ -2544,7 +2469,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!54 &1101719321
+--- !u!54 &1101719322
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2555,19 +2480,12 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-<<<<<<< Updated upstream
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
-=======
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
   m_Constraints: 124
->>>>>>> Stashed changes
   m_CollisionDetection: 0
---- !u!114 &1101719322
+--- !u!114 &1101719323
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2579,14 +2497,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
-  target: {fileID: 662740032}
-  speed: 2
-  rotationSpeed: 2
-=======
-  speed: 25
+  speed: 75
   distance: 100
->>>>>>> Stashed changes
 --- !u!1 &1113059647
 GameObject:
   m_ObjectHideFlags: 0
@@ -3089,13 +3001,8 @@ GameObject:
   - component: {fileID: 1276070490}
   - component: {fileID: 1276070489}
   - component: {fileID: 1276070488}
-<<<<<<< Updated upstream
   - component: {fileID: 1276070492}
   - component: {fileID: 1276070493}
-=======
-  - component: {fileID: 1276070493}
-  - component: {fileID: 1276070492}
->>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Cylinder (12)
   m_TagString: Untagged
@@ -3182,25 +3089,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
 --- !u!54 &1276070492
-=======
---- !u!114 &1276070492
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1276070487}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 100
-  distance: 100
---- !u!54 &1276070493
->>>>>>> Stashed changes
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3211,11 +3100,10 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-<<<<<<< Updated upstream
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 124
   m_CollisionDetection: 0
 --- !u!114 &1276070493
 MonoBehaviour:
@@ -3229,16 +3117,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 808538288}
-  speed: 2
-  rotationSpeed: 2
-=======
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 124
-  m_CollisionDetection: 0
->>>>>>> Stashed changes
+  speed: 100
+  distance: 100
 --- !u!1 &1276825475
 GameObject:
   m_ObjectHideFlags: 0
@@ -3349,11 +3229,8 @@ GameObject:
   - component: {fileID: 1279061546}
   - component: {fileID: 1279061545}
   - component: {fileID: 1279061544}
-<<<<<<< Updated upstream
-=======
-  - component: {fileID: 1279061549}
->>>>>>> Stashed changes
   - component: {fileID: 1279061548}
+  - component: {fileID: 1279061549}
   m_Layer: 0
   m_Name: Cylinder (6)
   m_TagString: Untagged
@@ -3433,7 +3310,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1279061543}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.2, y: 3.9, z: 85.5}
+  m_LocalPosition: {x: -18.7, y: 3.9, z: 85.5}
   m_LocalScale: {x: 5.66, y: 10, z: 5.89}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3451,14 +3328,7 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-<<<<<<< Updated upstream
   m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
-=======
-  m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 124
@@ -3475,9 +3345,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 50
+  speed: 80
   distance: 100
->>>>>>> Stashed changes
 --- !u!1 &1364107941
 GameObject:
   m_ObjectHideFlags: 0
@@ -3490,13 +3359,8 @@ GameObject:
   - component: {fileID: 1364107944}
   - component: {fileID: 1364107943}
   - component: {fileID: 1364107942}
-<<<<<<< Updated upstream
   - component: {fileID: 1364107946}
   - component: {fileID: 1364107947}
-=======
-  - component: {fileID: 1364107947}
-  - component: {fileID: 1364107946}
->>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Cylinder (11)
   m_TagString: Untagged
@@ -3576,7 +3440,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1364107941}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.1, y: 3.9, z: 190.3}
+  m_LocalPosition: {x: -20, y: 3.9, z: 190.3}
   m_LocalScale: {x: 5.66, y: 10, z: 5.89}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3594,17 +3458,10 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-<<<<<<< Updated upstream
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
-=======
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
   m_Constraints: 124
->>>>>>> Stashed changes
   m_CollisionDetection: 0
 --- !u!114 &1364107947
 MonoBehaviour:
@@ -3618,14 +3475,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
-  target: {fileID: 730157209}
-  speed: 2
-  rotationSpeed: 2
-=======
-  speed: 88
+  speed: 90
   distance: 100
->>>>>>> Stashed changes
 --- !u!1 &1367118433
 GameObject:
   m_ObjectHideFlags: 0
@@ -3755,13 +3606,8 @@ GameObject:
   - component: {fileID: 1404997446}
   - component: {fileID: 1404997445}
   - component: {fileID: 1404997444}
-<<<<<<< Updated upstream
-  - component: {fileID: 1404997448}
   - component: {fileID: 1404997449}
-=======
-  - component: {fileID: 1404997449}
-  - component: {fileID: 1404997448}
->>>>>>> Stashed changes
+  - component: {fileID: 1404997450}
   m_Layer: 0
   m_Name: Cylinder (7)
   m_TagString: Untagged
@@ -3841,14 +3687,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1404997443}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.1, y: 3.9, z: 100}
+  m_LocalPosition: {x: -18.6, y: 3.9, z: 105.4}
   m_LocalScale: {x: 5.66, y: 10, z: 5.89}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!54 &1404997448
+--- !u!54 &1404997449
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3859,19 +3705,12 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-<<<<<<< Updated upstream
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
-=======
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
   m_Constraints: 124
->>>>>>> Stashed changes
   m_CollisionDetection: 0
---- !u!114 &1404997449
+--- !u!114 &1404997450
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3883,14 +3722,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
-  target: {fileID: 1513632499}
-  speed: 2
-  rotationSpeed: 2
-=======
-  speed: 75
+  speed: 50
   distance: 100
->>>>>>> Stashed changes
 --- !u!1 &1479232366
 GameObject:
   m_ObjectHideFlags: 0
@@ -4099,13 +3932,8 @@ GameObject:
   - component: {fileID: 1513632502}
   - component: {fileID: 1513632501}
   - component: {fileID: 1513632500}
-<<<<<<< Updated upstream
-  - component: {fileID: 1513632504}
   - component: {fileID: 1513632505}
-=======
-  - component: {fileID: 1513632505}
-  - component: {fileID: 1513632504}
->>>>>>> Stashed changes
+  - component: {fileID: 1513632506}
   m_Layer: 0
   m_Name: Cylinder (5)
   m_TagString: Untagged
@@ -4185,14 +4013,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1513632499}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.4, y: 3.9, z: 69.4}
+  m_LocalPosition: {x: -18.6, y: 3.9, z: 69.4}
   m_LocalScale: {x: 5.66, y: 10, z: 5.89}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!54 &1513632504
+--- !u!54 &1513632505
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4203,19 +4031,12 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-<<<<<<< Updated upstream
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
-=======
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
   m_Constraints: 124
->>>>>>> Stashed changes
   m_CollisionDetection: 0
---- !u!114 &1513632505
+--- !u!114 &1513632506
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4227,14 +4048,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
-  target: {fileID: 1404997443}
-  speed: 2
-  rotationSpeed: 2
-=======
   speed: 30
   distance: 100
->>>>>>> Stashed changes
 --- !u!1 &1548230395
 GameObject:
   m_ObjectHideFlags: 0
@@ -4652,13 +4467,8 @@ GameObject:
   - component: {fileID: 1768869496}
   - component: {fileID: 1768869495}
   - component: {fileID: 1768869494}
-<<<<<<< Updated upstream
   - component: {fileID: 1768869498}
   - component: {fileID: 1768869499}
-=======
-  - component: {fileID: 1768869499}
-  - component: {fileID: 1768869498}
->>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Cylinder (10)
   m_TagString: Untagged
@@ -4738,7 +4548,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1768869493}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.7, y: 3.9, z: 177.4}
+  m_LocalPosition: {x: -19.6, y: 3.9, z: 166}
   m_LocalScale: {x: 5.66, y: 10, z: 5.89}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4756,17 +4566,10 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-<<<<<<< Updated upstream
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
-=======
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
   m_Constraints: 124
->>>>>>> Stashed changes
   m_CollisionDetection: 0
 --- !u!114 &1768869499
 MonoBehaviour:
@@ -4780,14 +4583,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
-  target: {fileID: 6544228}
-  speed: 2
-  rotationSpeed: 2
-=======
-  speed: 90
+  speed: 80
   distance: 100
->>>>>>> Stashed changes
 --- !u!1 &1784361785
 GameObject:
   m_ObjectHideFlags: 0
@@ -5073,7 +4870,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1845745486}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 83.2, y: 0.95009285, z: 220.6}
+  m_LocalPosition: {x: 83, y: 0.95009285, z: 220.6}
   m_LocalScale: {x: 800, y: 6.98, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5101,15 +4898,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3672073309644275502, guid: 2730a570f09161049b89041bb10c574b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 135
+      value: 74.9
       objectReference: {fileID: 0}
     - target: {fileID: 3672073309644275502, guid: 2730a570f09161049b89041bb10c574b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.1
+      value: -0.8
       objectReference: {fileID: 0}
     - target: {fileID: 3672073309644275502, guid: 2730a570f09161049b89041bb10c574b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 210.67
+      value: 216.7
       objectReference: {fileID: 0}
     - target: {fileID: 3672073309644275502, guid: 2730a570f09161049b89041bb10c574b, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5157,11 +4954,8 @@ GameObject:
   - component: {fileID: 2000769159}
   - component: {fileID: 2000769158}
   - component: {fileID: 2000769157}
-<<<<<<< Updated upstream
-=======
-  - component: {fileID: 2000769162}
->>>>>>> Stashed changes
   - component: {fileID: 2000769161}
+  - component: {fileID: 2000769162}
   m_Layer: 0
   m_Name: Cylinder (8)
   m_TagString: Untagged
@@ -5241,7 +5035,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2000769156}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -20.3, y: 3.9, z: 125.2}
+  m_LocalPosition: {x: -19, y: 3.9, z: 125.2}
   m_LocalScale: {x: 5.66, y: 10, z: 5.89}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5259,14 +5053,7 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-<<<<<<< Updated upstream
   m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
-=======
-  m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 124
@@ -5283,9 +5070,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6d3a6c8d7d44c86b0c72f482c07e6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 80
+  speed: 45
   distance: 100
->>>>>>> Stashed changes
 --- !u!1 &2043951174
 GameObject:
   m_ObjectHideFlags: 0
