@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 33c0e9e5289d02c4aac5695bdc180157
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zero: {fileID: 8300000, guid: 551dde5f38b31784f8a14d8dad7a1de5, type: 3}
+  - one: {fileID: 8300000, guid: 16063a3c181ce464a8943b202e6f36ee, type: 3}
+  - two: {fileID: 8300000, guid: 485d55a36276d14418fd359538273d08, type: 3}
+  - three: {fileID: 8300000, guid: b6cc8554942615444961ad7e6539cb76, type: 3}
+  - four: {fileID: 8300000, guid: 61bc6b6b7b1c2d34687c62ecd7415128, type: 3}
+  - five: {fileID: 8300000, guid: 4a0ad127ebe541b4eb3a2de2acc3832e, type: 3}
+  - six: {fileID: 8300000, guid: 82d32e5edac66f142802627d2b45ed33, type: 3}
+  - seven: {fileID: 8300000, guid: cbb284bbfbe0a7746a5ba9f1f1e47803, type: 3}
+  - eight: {fileID: 8300000, guid: 61bc6b6b7b1c2d34687c62ecd7415128, type: 3}
+  - nine: {fileID: 8300000, guid: b6cc8554942615444961ad7e6539cb76, type: 3}
+  - audio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
